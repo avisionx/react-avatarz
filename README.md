@@ -4,7 +4,7 @@
   <p align="center"><img src="https://img.shields.io/npm/v/react-avatarz"> <img src="https://img.shields.io/github/issues-raw/avisionx/react-avatarz?style=flat-square"> <img src="https://img.shields.io/bundlephobia/min/react-avatarz"> <img src="https://img.shields.io/github/languages/count/avisionx/react-avatarz?style=flat-square"> <img src="https://img.shields.io/github/languages/code-size/avisionx/react-avatarz?style=flat-square"> <img src="https://img.shields.io/github/stars/avisionx/react-avatarz?style=flat-square"> <img src="https://img.shields.io/github/contributors/avisionx/react-avatarz?style=flat-square"> <img src="https://img.shields.io/github/license/avisionx/react-avatarz?style=flat-square"></p>
 
   <p align="center">
-    A simple component to generate random React Avatars ✨
+    A simple JS library to generate random Avatars based on username & color pallete perfect for your React App ✨
     </br>
     <a href="https://github.com/avisionx/react-avatarz/#table-of-contents"><strong>Explore the docs »</strong></a><br/>
     <a href="https://github.com/avisionx/react-avatarz/issues">Report Bug</a>
